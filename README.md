@@ -3,3 +3,5 @@ And test script with input custom query statement.
 Without mmdt and help of Mentor Paing's demo, I couldnt have knowledge like that.
 
 Thanks to mmdt and Mentor Paing!
+
+Don't forget to assign your postgres address in .env file.
